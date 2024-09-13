@@ -21,6 +21,8 @@ Screenshot Capture: html2canvas
 ![Screenshot 2024-07-27 131508](https://github.com/user-attachments/assets/21221b5b-54b9-46d8-b134-8031d98c90bb)
 ![Screenshot 2024-07-27 131259](https://github.com/user-attachments/assets/8cf8bca9-eb9d-4454-a790-5aba9b1be0b5)
 ![Screenshot 2024-07-27 130433](https://github.com/user-attachments/assets/37b33a48-cfb7-4d5f-983e-e9d039dedfab)
+![Screenshot 2024-07-27 131235](https://github.com/user-attachments/assets/92c6dfc1-b76c-4942-8e2d-df5dc93fb0ad)
+
 
 
 
